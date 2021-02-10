@@ -650,7 +650,7 @@ tide:
     openshift-priv/ansible-service-broker: squash
     openshift-priv/assisted-installer: squash
     openshift-priv/assisted-installer-agent: squash
-    openshift-priv/assisted-service: squash
+    openshift-priv/assisted-service: rebase
     openshift-priv/assisted-test-infra: squash
     openshift-priv/bond-cni: squash
     openshift-priv/ci-artifacts: squash
